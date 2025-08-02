@@ -27,7 +27,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdlb3pwNmR0dGpwbGhrMWh0cXJ5bGk5cGlmeWx2bnNpam1nbXRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdlb3pwNmR0dGpwbGhrMWh0cXJ5bGk5cGlmeWx2bnNpam1nbXRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
 ✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong><br>
