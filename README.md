@@ -5,9 +5,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dinesh Kumaar</h1>
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40"></a>
-<a href="https://leetcode.com/u/dineshkumaar9025067808/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dineshkumaar" height="30" width="40" ></a>
- <a href="mailto: dineshkumaar9025067808@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/aksia/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30">
+</a>
+
+<a href="https://leetcode.com/u/dineshkumaar9025067808/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30">
+</a>
+
+<a href="mailto:dineshkumaar9025067808@gmail.com">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30">
+</a>
+
 </p>
 <p></p>
 <p align="center">
