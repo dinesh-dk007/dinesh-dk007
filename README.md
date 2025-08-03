@@ -28,11 +28,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dinesh-dk007&show_icons=true&locale=en" alt="dinesh-dk007" /></p>
 
----
-
-## 📈 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=dark&font=Consolas)](https://leetcode.com/dineshkumaar9025067808/)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh%20Kumaar?theme=dark&font=Source%20Sans%20Pro&ext=heatmap&site=cn)](https://leetcode.com/u/dineshkumaar9025067808/)
 
 
