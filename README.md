@@ -10,7 +10,7 @@
     🧑‍💻 All of my projects are available at 
     <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
   </span>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" align="right" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
 </div>
 
 
