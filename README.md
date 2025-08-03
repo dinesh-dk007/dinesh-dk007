@@ -13,7 +13,7 @@
      </li>
     </ul>
   </span>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" style="margin-top: -20px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" style="margin-top: -40px;" />
 </div>
 
 
