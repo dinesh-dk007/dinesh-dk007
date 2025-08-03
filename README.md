@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://i.gifer.com/En1y.gif" width="300" />
+      <img src="https://i.gifer.com/1xZ.gif" width="300" />
     </td>
   </tr>
 </table>
