@@ -5,7 +5,7 @@
   <tr>
     <td>
       <ul>
-        <li>🧑‍💻 All of my projects are available at 
+        <li>🧑‍💻 My Portfolio 
           <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
         </li>
         <li>💬 Ask me about <b>anything, I am happy to help, only if the ball is in my court!</b> 😋</li>
