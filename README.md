@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumaar K</h1>
-<h3 align="center">Hello, World! I am Dinesh , a Backend Developer passionate about creating high-performance, scalable software solutions. With experience in backend development, I specialize in building robust server-side applications. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
+<h3 align="center">Hello, World! I am Dinesh , a Backend Developer passionate about creating high-performance, scalable software solutions. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://i.gifer.com/En1y.gif" width="300" />
+      <img src="https://i.gifer.com/En1y.gif" width="400" />
     </td>
   </tr>
 </table>
