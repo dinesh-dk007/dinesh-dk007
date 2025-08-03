@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumaar K</h1>
 <h3 align="center">Hello, World! I am Dinesh — a Backend Developer passionate about creating high-performance, scalable software solutions. With experience in backend development, I specialize in building robust server-side applications. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-dk007&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-dk007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-dk007" alt="dinesh-dk007" /></a> </p>
-
 <table>
   <tr>
     <td>
