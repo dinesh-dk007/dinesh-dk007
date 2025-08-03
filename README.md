@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-dk007" alt="dinesh-dk007" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [dinesh-com.vercel.app](dinesh-com.vercel.app)
+- 👨‍💻 All of my projects are available at [dinesh-com.vercel.app](https://dinesh-com.vercel.app)
 
 - 💬 Ask me about **anything, I am happy to help, only if the ball is in my court!😉**
 
