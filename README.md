@@ -4,11 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-dk007&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-dk007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-dk007" alt="dinesh-dk007" /></a> </p>
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
-</p>
 
-- 👨‍💻 All of my projects are available at [dinesh-com.vercel.app](https://dinesh-com.vercel.app)
+<div align="left">
+  <span>
+    🧑‍💻 All of my projects are available at 
+    <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
+  </span>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" align="right" />
+</div>
+
 
 - 💬 Ask me about **anything, I am happy to help, only if the ball is in my court!😉**
 
