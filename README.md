@@ -1,51 +1,30 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dinesh Kumaar</h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30">
-</a>
+<h1 align="center">Hi 👋, I'm Dinesh Kumaar K</h1>
+<h3 align="center">Hello, World! I am Dinesh — a Backend Developer passionate about creating high-performance, scalable software solutions. With experience in backend development, I specialize in building robust server-side applications. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
 
-<a href="https://leetcode.com/u/dineshkumaar9025067808/" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-dk007&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-dk007" /> </p>
 
-<a href="mailto:dineshkumaar9025067808@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30">
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-dk007" alt="dinesh-dk007" /></a> </p>
 
-</p>
-<p></p>
-<p align="center">
-  <em>
-    This is ME, Dinesh Kumaar K, a <b>Pre - final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>RMK College of Engineering &amp; technology</b>, Chennai</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp;.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdlb3pwNmR0dGpwbGhrMWh0cXJ5bGk5cGlmeWx2bnNpam1nbXRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdlb3pwNmR0dGpwbGhrMWh0cXJ5bGk5cGlmeWx2bnNpam1nbXRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif">
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
-✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong><br>
-✔ I’m looking to collaborate with any <strong>Open - Source contribution</strong><br>
-✔ I’m looking for help for learning <strong>Remote Sensing</strong><br>
-✔ I use to write coad on <a href="https://leetcode.com/u/dineshkumaar9025067808/">leetcode</a> <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : <em>At The time of Stress coding, I use to be in half sleeping mode</em><br><br><br><br></p>
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
+- 👨‍💻 All of my projects are available at [dinesh-com.vercel.app](dinesh-com.vercel.app)
+
+- 💬 Ask me about **anything, I am happy to help, only if the ball is in my court!😉**
+
+- 📫 How to reach me **dineshkumaar9025067808@gmail.com**
+
+- ⚡ Fun fact **At The time of Stress coding, I use to be in half sleeping mode**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p><p><code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code>
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-<code> <img height="20" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="20" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code></p>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="akash-chowrasia"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&amp;show_icons=true&amp;locale=en" alt="akash-chowrasia" width="410"></p>
-<hr>
+<a href="https://linkedin.com/in/dinesh-kumaar-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-kumaar-k" height="30" width="40" /></a>
+<a href="https://instagram.com/dinesh__dk___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh__dk___" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dinesh kumaar k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dinesh kumaar k" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-dk007&show_icons=true&locale=en&layout=compact" alt="dinesh-dk007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-dk007&show_icons=true&locale=en" alt="dinesh-dk007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-dk007&" alt="dinesh-dk007" /></p>
