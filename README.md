@@ -63,10 +63,8 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dinesh-dk007&show_icons=true&locale=en" alt="dinesh-dk007" /> 
+<p>&nbsp;/> 
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=radical&font=Mukta%20Malar&ext=heatmap) </p> 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=radical&font=Mukta%20Malar&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=radical&font=Mukta%20Malar&ext=heatmap) </p>
 
 
