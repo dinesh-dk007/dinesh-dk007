@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumaar K</h1>
 <h3 align="center">Hello, World! I am Dinesh — a Backend Developer passionate about creating high-performance, scalable software solutions. With experience in backend development, I specialize in building robust server-side applications. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-dk007&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-dk007" /> </p>
 
