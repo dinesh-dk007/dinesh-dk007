@@ -62,9 +62,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;/> 
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=radical&font=Mukta%20Malar&ext=heatmap) </p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/dineshkumaar9025067808?theme=dark&font=Forum&ext=heatmap)
 
