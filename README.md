@@ -5,23 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-dk007" alt="dinesh-dk007" /></a> </p>
 
-<div align="left">
-  <span>
-    <ul>
-     <li>🧑‍💻 All of my projects are available at 
-    <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
-     </li>
-    </ul>
-  </span>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" style="margin-top: -40px;" />
-</div>
-
-
-- 💬 Ask me about **anything, I am happy to help, only if the ball is in my court!😉**
-
-- 📫 How to reach me **dineshkumaar9025067808@gmail.com**
-
-- ⚡ Fun fact **At The time of Stress coding, I use to be in half sleeping mode**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🧑‍💻 All of my projects are available at 
+          <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
+        </li>
+        <li>💬 Ask me about <b>anything, I am happy to help, only if the ball is in my court!</b> 😋</li>
+        <li>📫 How to reach me 
+          <a href="mailto:dineshkumaar9025067808@gmail.com">dineshkumaar9025067808@gmail.com</a>
+        </li>
+        <li>⚡ Fun fact <b>At The time of Stress coding, I use to be in half sleeping mode</b></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
