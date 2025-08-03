@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumaar K</h1>
 <h3 align="center">Hello, World! I am Dinesh — a Backend Developer passionate about creating high-performance, scalable software solutions. With experience in backend development, I specialize in building robust server-side applications. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
 
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td>
       <ul>
