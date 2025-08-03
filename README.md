@@ -7,7 +7,7 @@
 
 <div align="left">
   <span>
-    🧑‍💻 All of my projects are available at 
+    - 🧑‍💻 All of my projects are available at 
     <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
   </span>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" />
