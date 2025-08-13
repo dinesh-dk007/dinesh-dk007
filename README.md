@@ -1,11 +1,11 @@
-<h1 align="center">Hi there👋, It's me Dinesh</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> , It's me Dinesh</h1>
 <h3 align="center">Hello, World! I am Dinesh , a Backend Developer passionate about creating high-performance, scalable software solutions. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects. Let's connect and collaborate!</h3>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <ul>
-        <li>🧑‍💻 My Portfolio 
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist Medium-Dark Skin Tone" width="25" height="25" /> My Portfolio 
           <a href="https://dinesh-com.vercel.app" target="_blank">dinesh-com.vercel.app</a>
         </li>
         <li>💬 Ask me about <b>anything, I am happy to help, only if the ball is in my court!</b> 😋</li>
@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://i.gifer.com/1xZ.gif" width="300" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"width="300" />
     </td>
   </tr>
 </table>
