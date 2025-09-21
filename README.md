@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumaar</h1>
 <h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Python, Java, C, JS, Html, CSS, React, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RsYjRycmFiZzVhY2ZtNzA2OGQyYWxkbnpldjRrenRlNHh4OXlucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif">
 
 - 🌱 I’m currently learning **React.JS and DSA**
 
