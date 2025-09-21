@@ -1,8 +1,8 @@
 ![MasterHead]( https://file.notion.so/f/f/09997489-09eb-49ff-b12d-3bd0406e60c0/a7ffed2b-7c15-4186-80e9-513259cc9894/fbc6f31bd3b84159470b973aca7e0f97_gif_1920__1080_pixels.gif?table=block&id=189284aa-8b88-806b-894e-cfc8412f292c&spaceId=09997489-09eb-49ff-b12d-3bd0406e60c0&expirationTimestamp=1758456000000&signature=LiAss1-wG6BGjvHywdmrI5MRLSdlhmFB0zpuPBH5o5A)
-<h1 align="center">Hi 👋, I'm Sakthi Sairam</h1>
-<h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Python, Java, C, JS, Html, CSS, Bootstrap, Express.JS, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
+<h1 align="center">Hi 👋, I'm Dinesh Kumaar</h1>
+<h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Python, Java, C, JS, Html, CSS, React, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🌱 I’m currently learning **React.JS and DSA**
 
