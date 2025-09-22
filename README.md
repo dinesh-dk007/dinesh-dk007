@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakthi-sairam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthi-sairam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakthi_sairam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthi_sairam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinesh-kumaar-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthi-sairam" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dineshkumaar9025067808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthi_sairam" height="30" width="40" /></a>
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438686&key=858dcba16bd4b14fff7afd1257d3728828f701b8" target="blank"><img align="center" src="https://yt3.ggpht.com/a/AGF-l78dM_rmKt7JPUdVx84ej6NBL5ynq6U6seqejQ=s900-c-k-c0xffffffff-no-rj-mo" alt="74181sai" height="30" width="40" /></a>
 </p>
 
